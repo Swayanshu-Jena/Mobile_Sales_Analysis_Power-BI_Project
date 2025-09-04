@@ -3,7 +3,7 @@
 <img width="2800" height="1530" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/087bcd68-43bb-4c31-8586-79b7e922f060" />
 
 ## Overview
-This Power BI dashboard analyzes mobile sales performance, tracking ₹769M in revenue from 19K units sold. It visualizes sales trends across geographies, top products, and payment methods. The analysis reveals a dominance of digital payments and premium model sales. These insights guide strategic decisions for inventory and growth.
+This Power BI dashboard provides a comprehensive analysis of mobile sales performance, tracking ₹769M in revenue across 19K units sold. It visualizes key trends across geographies, products, and payment methods to identify growth opportunities. The interactive report highlights dominant digital payment preferences and top-performing premium models. Ultimately, it enables data-driven decisions for sales strategy and inventory optimization.
 
 ## Objectives
 
