@@ -19,16 +19,30 @@ The sourced dataset for this project:
 
 - **Dataset Link:** [Mobile Sales Dataset](https://docs.google.com/spreadsheets/d/1_-y_9cgrSp4ducJaftZIUaATW96_qNav/edit?usp=drive_link&ouid=102928088777884514912&rtpof=true&sd=true)
 
+## Key Features
+
+- Total Sales: 769M from 19K units sold
+- Performance Metrics: Average transaction value of 40K
+- Trend Analysis: Monthly and daily sales patterns
+- Geographical View: Sales distribution across major cities
+- Product Insights: Top-performing models and brands
+- Customer Analytics: Payment method preferences and ratings
+
+## Data Processing & Modeling
+
+- Performed comprehensive data cleaning and transformation using Power Query
+- Developed an optimized star schema data model with fact and dimension tables
+- Created advanced DAX measures for KPIs including: Total Sales, Total Quantity Sold, Average Transaction Value, and Time Intelligence metrics
+- Established relationships between sales, product, location, and date tables
+
 ## Findings and Conclusion
 
-- Patient Volume: The ER handled a total of 513 patients during the analyzed period.
-- Admission Rate: A slight majority of patients (52.4%) were admitted for further treatment, while 47.6% were treated and discharged from the ER.
-- Operational Timeliness: Only 38.4% of patients were seen within the target wait time of 30 minutes, indicating a significant area for improvement in patient flow.
-- Patient Satisfaction: The average patient satisfaction score was 4.96, suggesting room for enhancement in the patient experience.
-- Demographics: The patient age group was fairly distributed, with the highest number of patients (72) belonging to the 0-9 years bracket. The gender distribution    was nearly equal.
-- Referral Trends: The majority of patients (299) did not require a referral to a specialty department. Among those who did, General Practice was the most common   referral department (103 referrals), followed by Orthopedics (65).
+- Total Sales Volume: The business generated robust revenue, reaching ₹769 Million from the sale of 19,000 units during the period, reflecting strong market demand.
+- Payment Method Trends: Digital payments dominated transactions, with UPI (26.25%) being the most preferred method, followed closely by Credit Card (25.03%) and Debit Card (22.83%), highlighting a shift toward    cashless transactions.
+- Geographical Performance: Sales were heavily concentrated in metropolitan areas, with cities like Mumbai, Bangalore, and Hyderabad emerging as top revenue contributors, indicating key markets for strategic  focus.
+- Product Performance: Premium models such as iPhone SE and OnePlus were the highest revenue-generating products, underscoring the importance of the premium segment in driving profitability.
 
-This Hospital ER Dashboard identifies patient wait times as the key area for improvement, providing clear insights to enhance operational efficiency and patient satisfaction.
+This Mobile Sales Dashboard highlights the dominance of digital payments and premium products, providing actionable insights to optimize inventory, marketing strategies, and regional focus for future growth.
 
 ## Author - Swayanshu Jena
 
