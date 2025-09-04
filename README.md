@@ -1,6 +1,6 @@
 # Mobile Sales Analysis Power-BI Project
 
-<img width="2718" height="1530" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/087bcd68-43bb-4c31-8586-79b7e922f060" />
+<img width="2800" height="1530" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/087bcd68-43bb-4c31-8586-79b7e922f060" />
 
 ## Overview
 This Power BI project delivers a comprehensive analysis of mobile sales performance through an interactive dashboard. It transforms raw sales data into clear visual insights on revenue trends, product performance, and customer behavior across different regions. The dashboard enables data-driven decision making for sales strategy, inventory planning, and market expansion by providing key metrics on demand patterns, payment preferences, and geographical performance.
