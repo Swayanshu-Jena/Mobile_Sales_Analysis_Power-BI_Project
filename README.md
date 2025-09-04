@@ -46,7 +46,7 @@ This Mobile Sales Dashboard highlights the dominance of digital payments and pre
 
 ## Author - Swayanshu Jena
 
-This end-to-end dashboard project highlights my ability to solve business problems with data, demonstrating key data analyst skills in Excel, data modeling, and visualization. I welcome any questions, feedback, or opportunities to collaborate.
+This end-to-end Power BI project demonstrates my expertise in data storytelling, visualization design, and strategic analysis. I thrive on turning business questions into data-driven solutions and welcome opportunities to connect, collaborate, and create impact through analytics.
 
 ### Stay Updated
 
@@ -55,7 +55,7 @@ Make sure to follow me on social media:
 - **Instagram**: [Follow me](https://www.instagram.com/sway_anshu_jena/)
 - **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/swayanshu-jena)
 
-Thank you for your support, and I look forward to connecting with you!
+❤️ Thank you for your support, and I look forward to connecting with you!
 
 
 
